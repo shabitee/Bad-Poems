@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+<link rel="stylesheet" type="text/css" href="styles.css" />
+body {
+    background-color:"powderblue"
+}
+h1, h2, h3 {
+    color: black;
+  font-family: verdana;
+  font-size: 300%;
+}
+.standard 1 {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+}
+.standard 2 {
+    color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+.standard 3 {
+    color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+figure {
+    float: centre;
+  width: 70%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+</style>
+</head>
+</html>
