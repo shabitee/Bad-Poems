@@ -6,10 +6,15 @@
 body {
     background-color:"powderblue"
 }
-h1, h2, h3 {
+h1, h2, {
     color: black;
   font-family: verdana;
   font-size: 300%;
+}
+h3 {
+ colour:black;
+    font-family: verdana;
+    font-size: 200%;
 }
 .standard 1 {
     color: red;
@@ -28,7 +33,7 @@ h1, h2, h3 {
 }
 figure {
     float: centre;
-  width: 70%;
+  width: 100%;
   text-align: center;
   font-style: italic;
   font-size: smaller;
