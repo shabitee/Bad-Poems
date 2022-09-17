@@ -14,22 +14,22 @@ h1, h2, {
   font-size: 300%;
 }
 h3 {
- colour:black;
+ colour: black;
     font-family: verdana;
     font-size: 200%;
 }
 .standard 1 {
-    color: red;
+    color: black;
     font-family: courier;
     font-size: 160%;
 }
 .standard 2 {
-    color: red;
+    color: black;
   font-family: courier;
   font-size: 160%;
 }
 .standard 3 {
-    color: red;
+    color: black;
   font-family: courier;
   font-size: 160%;
 }
