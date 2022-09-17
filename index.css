@@ -6,6 +6,9 @@
 body {
     background-color:"powderblue"
 }
+h1 {
+    text-aligh: center;
+}
 h1, h2, {
     color: black;
   font-family: verdana;
